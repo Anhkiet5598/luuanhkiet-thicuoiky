@@ -1,0 +1,8 @@
+C:\Users\Anh Kiet\Documents\SharpDevelop Projects\Orm. HTron\Orm. HTron\obj\Debug\Orm. HTron.csprojResolveAssemblyReference.cache
+C:\Users\Anh Kiet\Documents\SharpDevelop Projects\Orm. HTron\Orm. HTron\obj\Debug\Orm._HTron.MainForm.resources
+C:\Users\Anh Kiet\Documents\SharpDevelop Projects\Orm. HTron\Orm. HTron\obj\Debug\Orm. HTron.csproj.GenerateResource.Cache
+C:\Users\Anh Kiet\Documents\SharpDevelop Projects\Orm. HTron\Orm. HTron\bin\Debug\Orm. HTron.exe
+C:\Users\Anh Kiet\Documents\SharpDevelop Projects\Orm. HTron\Orm. HTron\bin\Debug\Orm. HTron.pdb
+C:\Users\Anh Kiet\Documents\SharpDevelop Projects\Orm. HTron\Orm. HTron\obj\Debug\Orm. HTron.exe
+C:\Users\Anh Kiet\Documents\SharpDevelop Projects\Orm. HTron\Orm. HTron\obj\Debug\Orm. HTron.pdb
+C:\Users\Anh Kiet\Documents\SharpDevelop Projects\Orm. HTron\Orm. HTron\bin\Debug\Orm. HTron.exe.config
